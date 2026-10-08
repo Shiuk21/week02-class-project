@@ -22,4 +22,4 @@ Output: `Current: 3 A`
 It can only run one calculation per run and it can't run numbers below 0. 
 
 ## Debugging reflection
-I was having troublw figuring out how to set up the github repositories and the pull request
+I was having trouble figuring out how to set up the github repositories and the pull request
